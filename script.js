@@ -8,7 +8,7 @@ class lettre{
         this.proposoleWord=proposoleWord.toUpperCase();
     }
     }
-
+alert("cc:")
     //les differents mots et leur indications  
 var tableauWord=[];
         tableauWord[0]= new lettre("please","to beg a pardon of someone!","EESAVAELTPR");
